@@ -1,0 +1,38 @@
+html{
+	background-color:#EFECCA;
+}
+
+h1 {
+	color:#C03000;
+}
+
+h2 {
+	color:#4BB5C1;
+}
+
+h1, h2, p{
+	font-family: Helvetica, Arial;
+}
+
+ul, a {
+	text-decoration:none;
+}
+
+#contact{
+	color:#0000FF;
+}	
+
+li {
+	display:inline;
+	border:2px solid #660000;
+	background-color:#C03000;
+	padding:5px;
+}
+
+.menu{
+	color:WHITE;
+}
+
+li:hover, a:active{
+	background-color:#009900;
+}
